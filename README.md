@@ -1,1 +1,1 @@
-# Sephora-Product-Rating-Predictor
+# Sephora-Skincare-Reviews-Sentiment

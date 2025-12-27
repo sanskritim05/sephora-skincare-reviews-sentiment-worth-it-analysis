@@ -126,16 +126,18 @@ Open and run:
 sephora_sentiment_worth_it.ipynb
 
 This will generate:
+``` bash
 outputs/
 └── product_rankings.csv
 
 models/
 └── sentiment_model.joblib
-
+```
 ### 5) Run the Streamlit app
 streamlit run app.py
 
 ## Project structure
+``` bash
 .
 ├── app.py
 ├── sephora_sentiment_worth_it.ipynb
@@ -149,6 +151,7 @@ streamlit run app.py
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+```
 
 ## Notes
 - Rankings reflect overall review trends and do not account for individual skin type or sensitivities.
